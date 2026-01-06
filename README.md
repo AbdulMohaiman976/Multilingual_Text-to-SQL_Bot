@@ -86,8 +86,3 @@ Makes SQL accessible for non-technical users
 Eliminates the need to write SQL manually
 Lightweight fine-tuned model suitable for small datasets
 Can be extended for any relational database
-Makes SQL accessible for non-technical users
-Eliminates the need to write SQL manually
-Lightweight fine-tuned model suitable for small datasets
-
-Can be extended for any relational database
